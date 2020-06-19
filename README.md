@@ -8,7 +8,7 @@ You can see all the (compressed) data used for training and testing in the 'data
 ## Secure genotype imputation protocol implementations 
 An Implementation of secure genotype imputation protocol from each team is available at the following repository:
 
-- **UTHealth & Microsoft Research**: [https://github.com/K-miran/HEmpute](https://github.com/K-miran/HEmpute).
-- **Chimera-TFHE**: [https://github.com/ssmiler/idash2019_2](https://github.com/ssmiler/idash2019_2).
+- **UTHealth & Microsoft Research**: [https://github.com/K-miran/HEmpute](https://github.com/K-miran/HEmpute)
+- **Chimera-TFHE**: [https://github.com/ssmiler/idash2019_2](https://github.com/ssmiler/idash2019_2)
 - **EPFL**:
-- **SNU**:
+- **SNU**: [https://github.com/idashSNU/Imputation](https://github.com/idashSNU/Imputation)
