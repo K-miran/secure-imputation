@@ -10,5 +10,5 @@ An Implementation of secure genotype imputation protocol from each team is avail
 
 - **UTHealth & Microsoft Research**: [https://github.com/K-miran/HEmpute](https://github.com/K-miran/HEmpute)
 - **Chimera-TFHE**: [https://github.com/ssmiler/idash2019_2](https://github.com/ssmiler/idash2019_2)
-- **EPFL**:
+- **EPFL**:[https://github.com/ldsec/Lattigo_genotype_imputation](https://github.com/ldsec/Lattigo_genotype_imputation)
 - **SNU**: [https://github.com/idashSNU/Imputation](https://github.com/idashSNU/Imputation)
