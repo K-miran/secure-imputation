@@ -1,3 +1,12 @@
 [submodule "UTMSR"]
 	path = UTMSR
 	url = https://github.com/K-miran/UTMSR
+[submodule "Chimera-TFHE"]
+	path = Chimera-TFHE
+	url = https://github.com/ssmiler/idash2019_2
+[submodule "EPFL"]
+	path = EPFL
+	url = https://github.com/ldsec/Lattigo_genotype_imputation
+[submodule "SNU"]
+	path = SNU
+	url = https://github.com/idashSNU/Imputation
