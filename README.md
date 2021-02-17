@@ -6,7 +6,17 @@ Genotype imputation is a fundamental step in genomic data analysis such as GWAS,
 You can see all the (compressed) data used for training and testing in the 'data' directory. 
 
 ## Secure genotype imputation protocol implementations 
-An Implementation of secure genotype imputation protocol from each team is available at the following repository:
+
+You can download the main project with all contained submodules to your local computer by using the clone command: 
+```sh
+git clone --recurse-submodules https://github.com/K-miran/secure-imputation.git
+```
+You can specify a submodule to be initialized and cloned by runing the command:
+```sh
+git submodule update --init --recursive <pathspec>
+```
+
+Alternatively, you can also find an Implementation of secure genotype imputation protocol from each team as the following repository:
 
 - **UTHealth & Microsoft Research**: [https://github.com/K-miran/HEmpute](https://github.com/K-miran/HEmpute)
 - **Chimera-TFHE**: [https://github.com/ssmiler/idash2019_2](https://github.com/ssmiler/idash2019_2)
