@@ -1,6 +1,6 @@
 [submodule "UTMSR"]
 	path = UTMSR
-	url = https://github.com/K-miran/UTMSR
+	url = https://github.com/K-miran/UTMSR_HEmpute
 [submodule "Chimera-TFHE"]
 	path = Chimera-TFHE
 	url = https://github.com/ssmiler/idash2019_2
