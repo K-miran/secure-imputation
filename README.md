@@ -18,7 +18,17 @@ git submodule update --init --recursive <pathspec>
 
 Alternatively, you can also find an Implementation of secure genotype imputation protocol from each team as the following repository:
 
-- **UTHealth & Microsoft Research**: [https://github.com/K-miran/UTMSR_HEmpute](https://github.com/K-miran/UTMSR_HEmpute)
+- **UTHealth & Microsoft Research**(UT-MSR): [https://github.com/K-miran/UTMSR_HEmpute](https://github.com/K-miran/UTMSR_HEmpute)
 - **Chimera-TFHE**: [https://github.com/ssmiler/idash2019_2](https://github.com/ssmiler/idash2019_2)
 - **EPFL**:[https://github.com/ldsec/Lattigo_genotype_imputation](https://github.com/ldsec/Lattigo_genotype_imputation)
 - **SNU**: [https://github.com/idashSNU/Imputation](https://github.com/idashSNU/Imputation)
+
+
+We summarize the underlying homomorphic encryption cryptosystem and library for each method.
+
+| Team | HE scheme | HE Library |
+| :-: | :-: | :-: |
+| UT-MSR | BFV/CKKS | SEAL |
+| Chimera-TFHE | TFHE | TFHE |
+| EPFL | CKKS | Lattigo |
+| SNU | CKKS | HEAAN |
